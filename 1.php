@@ -1,7 +1,7 @@
 <?php
 $code=$_GET["url"];
+echo $code;
 ?>
-
 <!DOCTYPE html>
 <html>
 <body>
